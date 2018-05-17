@@ -1,14 +1,13 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: CryptoGuyInZA
+Role: Crypto Enthusiast
 
-## Team Member 1
+Below is my social media presence and website details
 
-Name: [name]
-Role: [role]
+* Twitter   :  https://twitter.com/cryptoguyinza
+* Reddit    :  https://www.reddit.com/user/CryptoGuyInZA
+* Youtube   :  https://www.youtube.com/channel/UCWH5PPPq9nbUhFB-qxDYtgA
+* Medium    :  https://medium.com/cryptoguyinza
+* Website   :  www.Cryptoguyinza.co.za
 
-## Team Member 2
-
-Name: [name]
-Role: [role]
