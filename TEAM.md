@@ -1,6 +1,7 @@
 ## Founder
 
 Name: CryptoGuyInZA
+
 Role: Crypto Enthusiast
 
 Below is my social media presence and website details
