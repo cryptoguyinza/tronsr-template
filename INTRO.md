@@ -6,5 +6,5 @@ I am 34 years old and reside in South Africa, my name is Louis. I work as IT con
 I believe that most people involved in Cryptocurrencies are outside of the African continent and are large companies, I would like to be one of the first real independent ambassador for crypto in Africa and want Tron to be one of those Cryptocurrencies. I strongly believe Cryptocurrencies should be for the people and need independent people like me, I do not believe they should be centralized or be controlled by large companies. I also believe that I have excellent English which will assist to expand the Tron message into English speaking countries!
 
 **I will be sharing rewards with the community. Will share up to 80% with the following split
-- 75% shared with voters
-- 5%  will be used to fund any exciting dev projects that bring value to Tron ecosystem. **
+- 75% shared with voters**
+**- 5%  will be used to fund any exciting dev projects that bring value to Tron ecosystem. **
