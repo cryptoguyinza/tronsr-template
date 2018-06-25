@@ -9,7 +9,8 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 **CryptoGuyInZa Details**
 - TronLive campaign video https://youtu.be/4sCV0qsKaGo
 - View Tron Live campaign page for more info about CryptoGuyInZA - https://tron.live/tronsr/cryptoguyinza/
-- Tron interview - https://youtu.be/0DjMJ1J8kp8
+- Tron Live Video Interview - https://youtu.be/0DjMJ1J8kp8
+- Tron Live Text Interview - https://tron.live/an-interview-with-tronsr-cryptoguyinza/
 - CryptoGuyInZA for Stable Network - https://youtu.be/MpN3Zns4LA0
 - CryptoGuyInZA for Community Driven Tron SR - https://youtu.be/MpN3Zns4LA0
 - CryptoGuyInZA Payment Engine - https://youtu.be/IS7bJ5Ykvog
