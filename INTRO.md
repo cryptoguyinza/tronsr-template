@@ -20,4 +20,5 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 - I will be sharing rewards with the community. Will share up to 80% with the following split
   - 75% shared with voters
   - 5%  will be used to fund any exciting dev projects that bring value to Tron ecosystem.
+  - **Track your weekly rewards here http://18.191.24.64:8080/rewards?candidate=TTcYhypP8m4phDhN6oRexz2174zAerjEWP**
 
