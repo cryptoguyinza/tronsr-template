@@ -16,6 +16,7 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 - CryptoGuyInZA Payment Engine - https://youtu.be/IS7bJ5Ykvog
 
 
+-----------------------------------------
 **REWARDS**
 
 We having a Binance Opening Celebration where we will be sharing 100% of rewards and TRX prizes until we get into Tron SR slot! See details here 
@@ -27,3 +28,4 @@ Once Tron SR we will gradualy reduce to our campaign sharing rewards. Will share
   - 5%  will be used to fund any exciting dev projects that bring value to Tron ecosystem.
   - **Track your weekly rewards here http://18.191.24.64:8080 and see the detail breakdown**
 
+-----------------------------------------
