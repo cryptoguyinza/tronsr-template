@@ -24,8 +24,7 @@ We having a Binance Opening Celebration where we will be sharing 100% of rewards
   - **Track your weekly rewards here http://18.191.24.64:8080 and see the detail breakdown**
 
 Once Tron SR we will gradualy reduce to our campaign sharing rewards. Will share up to 80% with the following split
-  - 75% shared with voters
-  - 5%  will be used to fund any exciting dev projects that bring value to Tron ecosystem.
+  - 85% shared with voters
   - **Track your weekly rewards here http://18.191.24.64:8080 and see the detail breakdown**
 
 -----------------------------------------
