@@ -19,11 +19,7 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 -----------------------------------------
 **REWARDS**
 
-We having a Binance Opening Celebration where we will be sharing 100% of rewards and TRX prizes until we get into Tron SR slot! See details here 
-  - https://medium.com/cryptoguyinza/binance-opening-celebration-abeeeed518ea
-  - **Track your weekly rewards here http://18.191.24.64:8080 and see the detail breakdown**
-
-Once Tron SR we will gradualy reduce to our campaign sharing rewards. Will share up to 80% with the following split
+Once Tron SR we will gradualy reduce to our campaign sharing rewards. We are sharing 85%, details here
   - 85% shared with voters
   - **Track your weekly rewards here http://18.191.24.64:8080/rewards?candidate=TTcYhypP8m4phDhN6oRexz2174zAerjEWP and see the detail breakdown**
 
