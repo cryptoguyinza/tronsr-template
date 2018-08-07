@@ -21,6 +21,7 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 
 Once Tron SR we will gradualy reduce to our campaign sharing rewards. We are currently sharing 85%, details here
   - 85% shared with voters
+  - I pay out in **TRX** 
   - **Track your weekly rewards here http://18.191.24.64:8080/rewards?candidate=TTcYhypP8m4phDhN6oRexz2174zAerjEWP and see the detail breakdown**
 
 -----------------------------------------
