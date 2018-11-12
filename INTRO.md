@@ -19,8 +19,9 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 -----------------------------------------
 **REWARDS**
 
-Once Tron SR we will gradualy reduce to our campaign sharing rewards. We are currently sharing 85%, details here
+Once Tron SR we will gradualy reduce to our campaign sharing rewards. We are currently sharing 86%, details here
   - 85% shared with voters
+  - 1% shared with loyal voters that remain 360 rounds. Elite group
   - I pay out in **TRX** 
   - I payout **everyday** around 8:20 pm CAT
   - **Track your weekly rewards here http://18.223.13.192/#/tron/dashboard and see the detail breakdown**
