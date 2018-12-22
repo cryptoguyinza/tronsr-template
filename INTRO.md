@@ -38,6 +38,13 @@ We are currently sharing 86%, details here
 If you hold the Token CryptoGuyInZA token with abreviation CGIZA you get 100% vote boost, yes that is 2x rewards. For every token distrubuted we have 1 trx backing it, that means the tokens minimum value is 1 trx. **Important the 2x is on the token held in your wallet**
 
 So there is two ways to get the token
+   - Buy on one of the dex
+      - TronWalletMe
+      - Tronscan dex, look unders favourites for CGIZA
+      - GOC Exchange
+   - Switch TRX rewards to CGIZA Token. This will be 1:1, this means each trx reward will get 1 token. However as you accumulate CGIZA token you will receive 2x on the token held.
+      - After voting for CryptoGuyInZA send 1 trx to address TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf to get token rewards
+      - To switch back to TRX rewards send 2 trx to address TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf to get trx rewards
 
    
 Find more detail on token rewards here.
