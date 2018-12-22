@@ -17,10 +17,12 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 
 
 -----------------------------------------
-**REWARDS**
-I offer both TRX or Token rewards. Yes you as a voter can choose!
+# REWARDS
 
-*TRX Rewards
+I offer both TRX or Token rewards. Yes you as a voter can choose which one! Yes you have options.
+
+### TRX Rewards
+
 We are currently sharing 86%, details here
   - 85% shared with voters
   - 1% shared with loyal voters that remain 360 rounds. Elite group
@@ -28,4 +30,21 @@ We are currently sharing 86%, details here
   - I payout **everyday** around 8:20 pm CAT
   - **Track your weekly rewards here http://18.223.13.192/#/tron/dashboard and see the detail breakdown**
   
+ ### Token Rewards
+ 
+If you hold the Token CryptoGuyInZA token with abreviation CGIZA you get 100% vote boost, yes that is 2x rewards. For every token distrubuted we have 1 trx backing it, that means the tokens minimum value is 1 trx. **Important the 2x is on the token held in your wallet**
+
+So there is two ways to get the token
+   1. Buy on one of the dex
+      - TronWalletMe
+      - Tronscan dex, look unders favourites for CGIZA
+      - GOC Exchange
+   2. Switch TRX rewards to CGIZA Token. This will be 1:1, this means each trx reward will get 1 token. However as you accumulate CGIZA token you will receive 2x on the token held.
+      - After voting for CryptoGuyInZA send 1 trx to address TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf to get token rewards
+      - To switch back to TRX rewards send 2 trx to address TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf to get trx rewards
+   
+Find more detail on token rewards here.
+https://medium.com/@cryptoguyinza/cryptoguyinza-token-rewards-108402256b60
+ 
+**Each token has a minimum value of 1 TRX, it can either be traded on the dex or switched for trx by sending to this account TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf
 -----------------------------------------
