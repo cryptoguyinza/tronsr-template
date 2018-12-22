@@ -48,6 +48,5 @@ So there is two ways to get the token
 Find more detail on token rewards here.
 https://medium.com/@cryptoguyinza/cryptoguyinza-token-rewards-108402256b60
  
-**Each token has a minimum value of 1 TRX, it can either be traded on the dex or switched for trx by sending to this account
-  - TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf**
+**Each token has a minimum value of 1 TRX, it can either be traded on the dex or switched for trx by sending to this account TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf**
 -----------------------------------------
