@@ -18,8 +18,10 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 
 -----------------------------------------
 **REWARDS**
+I offer both TRX or Token rewards. Yes you as a voter can choose!
 
-Once Tron SR we will gradualy reduce to our campaign sharing rewards. We are currently sharing 86%, details here
+*TRX Rewards
+We are currently sharing 86%, details here
   - 85% shared with voters
   - 1% shared with loyal voters that remain 360 rounds. Elite group
   - I pay out in **TRX** 
