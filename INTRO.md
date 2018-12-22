@@ -39,13 +39,7 @@ If you hold the Token CryptoGuyInZA token with abreviation CGIZA you get 100% vo
 
 So there is two ways to get the token
    - Buy on one of the dex
-      - TronWalletMe
-      - Tronscan dex, look unders favourites for CGIZA
-      - GOC Exchange
-   - Switch TRX rewards to CGIZA Token. This will be 1:1, this means each trx reward will get 1 token. 
-      - After voting for CryptoGuyInZA send 1 trx to address TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf to get token rewards
-      - To switch back to TRX rewards send 2 trx to address TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf to get trx rewards
-
+   - Switch TRX rewards to CGIZA Token. This will be 1:1, this means each trx reward will get 1 token. However as you accumulate CGIZA token you will receive 2x on the token held.
    
 Find more detail on token rewards here.
 https://medium.com/@cryptoguyinza/cryptoguyinza-token-rewards-108402256b60
