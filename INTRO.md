@@ -1,3 +1,4 @@
+# Introduction
 
 Crypto Guy In South Africa (CryptoGuyInZA) is Cryptocurrency Enthusiast in South Africa providing Insight & Sharing Own Experience With Industry Leading Digital Currencies Based on Block Generation Technology.
 
@@ -6,7 +7,7 @@ I am 34 years old and reside in South Africa, my name is Louis. I work as IT con
 I believe that most people involved in Cryptocurrencies are outside of the African continent and are large companies, I would like to be one of the first real independent ambassador for crypto in Africa and want Tron to be one of those Cryptocurrencies. I strongly believe Cryptocurrencies should be for the people and need independent people like me, I do not believe they should be centralized or be controlled by large companies. I also believe that I have excellent English which will assist to expand the Tron message into English speaking countries!
 
 
-**CryptoGuyInZa Details**
+### CryptoGuyInZa Details
 - TronLive campaign video https://youtu.be/4sCV0qsKaGo
 - View Tron Live campaign page for more info about CryptoGuyInZA - https://tron.live/tronsr/cryptoguyinza/
 - Tron Live Video Interview - https://youtu.be/0DjMJ1J8kp8
