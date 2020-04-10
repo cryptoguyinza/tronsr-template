@@ -27,9 +27,9 @@ I offer both TRX or Token rewards. Yes you as a voter can choose which one! Yes 
 
 ### TRX Rewards
 
-We are currently sharing 86%, details here
-  - 85% shared with voters
-  - 1% shared with loyal voters that remain 360 rounds. Elite group
+We are currently sharing 89%, details here
+  - 86% shared with voters
+  - 3% shared with loyal voters that remain 360 rounds. Elite group
   - I pay out in **TRX** 
 
   
